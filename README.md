@@ -13,9 +13,8 @@ Typical structure for this project:
 
 - `index.html` — main page
 - `styles.css` — site styling
-- `images/` — image assets  
-- `Rectangle 6.png` — background image used on the page
-
+- `images/` — image assets
+  
 ## Run Locally
 No installation required.
 
