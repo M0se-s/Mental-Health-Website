@@ -36,6 +36,3 @@ No installation required.
 ## Disclaimer
 This website is for informational purposes only and is **not** a substitute for professional medical advice, diagnosis, or treatment.  
 If you are in immediate danger or crisis, contact your local emergency number right away.
-
-## License
-No license specified yet. (Add one if you want others to reuse/modify your code.)
